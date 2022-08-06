@@ -1,0 +1,15 @@
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/bin/Debug/net6.0/Numbers
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.runtimeconfig.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/bin/Debug/net6.0/Numbers.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/refint/Numbers.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/Numbers.genruntimeconfig.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Numbers/obj/Debug/net6.0/ref/Numbers.dll

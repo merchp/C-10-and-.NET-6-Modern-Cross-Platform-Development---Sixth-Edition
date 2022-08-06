@@ -1,0 +1,15 @@
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/bin/Debug/net6.0/BooleanOperators
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/bin/Debug/net6.0/BooleanOperators.deps.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/bin/Debug/net6.0/BooleanOperators.runtimeconfig.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/bin/Debug/net6.0/BooleanOperators.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/bin/Debug/net6.0/BooleanOperators.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.csproj.AssemblyReference.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.AssemblyInfoInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.AssemblyInfo.cs
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.csproj.CoreCompileInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/refint/BooleanOperators.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/BooleanOperators.genruntimeconfig.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Cahpter03/BooleanOperators/obj/Debug/net6.0/ref/BooleanOperators.dll

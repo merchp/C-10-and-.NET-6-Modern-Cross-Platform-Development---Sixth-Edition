@@ -1,0 +1,15 @@
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.deps.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.runtimeconfig.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/bin/Debug/net6.0/HelloCS.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.csproj.AssemblyReference.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfoInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfo.cs
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/refint/HelloCS.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/HelloCS.genruntimeconfig.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter01/HelloCS/obj/Debug/net6.0/ref/HelloCS.dll

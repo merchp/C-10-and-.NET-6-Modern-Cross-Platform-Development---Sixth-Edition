@@ -1,0 +1,15 @@
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/bin/Debug/net6.0/EX3
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/bin/Debug/net6.0/EX3.deps.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/bin/Debug/net6.0/EX3.runtimeconfig.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/bin/Debug/net6.0/EX3.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/bin/Debug/net6.0/EX3.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.csproj.AssemblyReference.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.AssemblyInfoInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.AssemblyInfo.cs
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.csproj.CoreCompileInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/refint/EX3.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/EX3.genruntimeconfig.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/EX3/obj/Debug/net6.0/ref/EX3.dll

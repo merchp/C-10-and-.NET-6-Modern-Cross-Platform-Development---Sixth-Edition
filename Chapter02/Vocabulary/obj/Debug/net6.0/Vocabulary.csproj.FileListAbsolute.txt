@@ -1,0 +1,15 @@
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.deps.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.runtimeconfig.json
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/bin/Debug/net6.0/Vocabulary.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.csproj.AssemblyReference.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.AssemblyInfo.cs
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.csproj.CoreCompileInputs.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/refint/Vocabulary.dll
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.pdb
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/Vocabulary.genruntimeconfig.cache
+/Users/chrishaunbyrom/Documents/CSHARP EXERCISES/Code/Chapter02/Vocabulary/obj/Debug/net6.0/ref/Vocabulary.dll
